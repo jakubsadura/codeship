@@ -1,0 +1,26 @@
+{
+  "name": "gics-service",
+  "version": "0.0.0",
+  "description": "Test service to see if codeship is working",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nieswiezy/codeship.git"
+  },
+  "keywords": [
+    "gics"
+  ],
+  "author": "nieswiezy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nieswiezy/codeship/issues"
+  },
+  "homepage": "https://github.com/nieswiezy/codeship"
+}
