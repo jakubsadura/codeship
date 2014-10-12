@@ -28,6 +28,7 @@ function generateInitialResponse() {
 }
 
 var app = http.createServer(function (req, res) {
+    
     /*
      RAW
      */
