@@ -1,6 +1,7 @@
 {
   "name": "gics-service",
   "version": "0.0.0",
+  "subdomain": "gics-service",
   "description": "Test service to see if codeship is working",
   "main": "app.js",
   "dependencies": {
@@ -8,7 +9,11 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Tests TBD\""
+  },
+  "engines": {
+    "node": "v0.8.x"
   },
   "repository": {
     "type": "git",
