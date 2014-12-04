@@ -5,7 +5,7 @@
   "description": "Test service to see if codeship is working",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.8.4"
+    "express": "4.x.x"
   },
   "devDependencies": {},
   "scripts": {
